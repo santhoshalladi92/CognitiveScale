@@ -11,6 +11,4 @@ class Year(Month):
     def __init__(self):
         print "Year is 2014"
 
-p1 = parent()
-
-'''nothing'''
+ p1 = Year()
